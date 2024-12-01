@@ -1,2 +1,1 @@
-# Wormfare-Slap-Auto-Clicker
-Wormfare-Slap-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
